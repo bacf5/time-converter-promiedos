@@ -4,7 +4,7 @@
   "version": "1.0",
   "browser_specific_settings": {
     "gecko": {
-      "id": "@extension-without-data-collection",
+      "id": "@time-converter.bruno-caruso",
       "data_collection_permissions": {
         "required": ["none"]
       }
