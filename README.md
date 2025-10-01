@@ -2,7 +2,9 @@
   Promiedos Time Converter 🕚
 </h2>
 
-<p align="center"><img width="300" height="300" alt="image" src="preview/icon-timeconverter.png"></p>
+<p align="center"><img width="300" height="300" alt="icon" src="preview/icon-timeconverter.png"></p>
+
+## Table of Contents
 
 - [Description](#description)
 - [Motivation](#motivation)
@@ -24,7 +26,7 @@ Honestly, I was tired of just trying to quickly check the day's football schedul
 
 ## Preview
 
-<p align="center"><img alt="image" src="preview/preview-timeconverter.png"></p>
+<p align="center"><img alt="preview" src="preview/preview-timeconverter.png"></p>
 
 ## To-do
 
