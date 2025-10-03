@@ -10,6 +10,7 @@
 - [Motivation](#motivation)
 - [Built with](#built-with)
 - [Preview](#preview)
+- [Installation](#installation)
 - [To-do](#to-do)
 
 ## Description
@@ -27,6 +28,20 @@ Honestly, I was tired of just trying to quickly check the day's football schedul
 ## Preview
 
 <p align="center"><img alt="preview" src="preview/preview-timeconverter.png"></p>
+
+## Installation
+
+Since this extension is available on the official Mozilla Add-ons website, installation is fast and safe.
+
+Go directly to the extension's page on the Mozilla Add-ons website:
+
+- [Extension Page](https://addons.mozilla.org/en-US/firefox/addon/time-converter-for-promiedos/)
+
+On the extension page, find the blue button that says "+ Add to Firefox" (or similar text) and click it.
+
+A confirmation box will appear in Firefox, asking if you want to install the extension and showing the permissions it requires. Click the "Add" button to complete the installation.
+
+The extension's icon should now appear in your Firefox toolbar (usually in the top-right corner).
 
 ## To-do
 
