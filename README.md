@@ -15,7 +15,7 @@
 
 ## Description
 
-Changes the time from GMT-3 to CEST in the Promiedos.com.ar website for Argentinians living abroad.
+Changes the time from GMT-3 to ~~CEST~~ your local time in the Promiedos.com.ar website for Argentinians living abroad.
 
 ## Motivation
 
@@ -45,5 +45,5 @@ The extension's icon should now appear in your Firefox toolbar (usually in the t
 
 ## To-do
 
-- [ ] Global Time Zone Support: The extension will expand beyond the current GMT-3 to CEST conversion.
-- [ ] Automatic Time Recognition: Detection of your local time to automatically convert the time.
+- [x] ~~Global Time Zone Support: The extension will expand beyond the current GMT-3 to CEST conversion.~~
+- [x] ~~Automatic Time Recognition: Detection of your local time to automatically convert the time.~~
