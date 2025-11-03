@@ -7,11 +7,8 @@ const userTimeZone = Intl.DateTimeFormat().resolvedOptions().timeZone;
 console.log('Detected user timezone:', userTimeZone);
 
 if (mainHeaderClass) {
-  mainHeaderClass.innerHTML += `<br> <br/>
-        <div>
-            <span>Todos los horarios fueron convertidos de GMT-3 (Argentina) a ${userTimeZone}.</span>
-        </div>
-    `;
+  mainHeaderClass.textContent = '';
+  mainHeaderClass.textContent = `Todos los horarios fueron convertidos de GMT-3 (Argentina) a ${userTimeZone}.`;
 }
 
 function convertTime() {
