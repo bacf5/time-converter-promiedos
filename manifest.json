@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Automatic Time Converter for Promiedos",
-  "version": "1.1",
+  "version": "1.2",
   "browser_specific_settings": {
     "gecko": {
       "id": "@time-converter.bruno-caruso",
