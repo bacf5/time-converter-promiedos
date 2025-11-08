@@ -4,7 +4,6 @@ Grabs the time from the website Promiedos.com.ar and converts it from GMT-3 to w
 
 const mainHeaderClass = document.querySelector('.main-header-block_breadcrumbs__qufNi');
 const userTimeZone = Intl.DateTimeFormat().resolvedOptions().timeZone;
-console.log('Detected user timezone:', userTimeZone);
 
 if (mainHeaderClass) {
   mainHeaderClass.textContent = '';
@@ -23,7 +22,6 @@ function convertTime() {
     const [hours, minutes] = originalTime.split(':').map(Number);
 
     const gmt3Date = new Date(Date.UTC(year, month, day, hours + 3, minutes));
-    console.log(gmt3Date);
 
     // Convierte la hora a la zona horaria del usuario
     const localString = gmt3Date.toLocaleTimeString([], {
